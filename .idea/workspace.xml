@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9473f07a-42f3-4ec8-b03e-185d9ef6c63d" name="Default Changelist" comment="add bsc event handler">
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ce028mz9" />
+  </component>
+  <component name="ProjectId" id="27kvvM29xaB05qBzINKa8gN5Xu5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../contracts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PyCharm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\bitcoin\project\20220305_rust_casper_bridge\CSPR-BSC-Bridge-backend" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9473f07a-42f3-4ec8-b03e-185d9ef6c63d" name="Default Changelist" comment="" />
+      <created>1649877127842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649877127842</updated>
+      <workItem from="1649877129275" duration="37193000" />
+      <workItem from="1650208466437" duration="11875000" />
+      <workItem from="1650442448566" duration="6553000" />
+      <workItem from="1650563890926" duration="1371000" />
+      <workItem from="1650588084892" duration="2442000" />
+      <workItem from="1650621143930" duration="106000" />
+      <workItem from="1650621375604" duration="2109000" />
+      <workItem from="1650633842798" duration="6227000" />
+      <workItem from="1650717820190" duration="1266000" />
+      <workItem from="1650817959248" duration="1280000" />
+      <workItem from="1650888160275" duration="6645000" />
+      <workItem from="1651073949614" duration="37907000" />
+      <workItem from="1651214218885" duration="7736000" />
+      <workItem from="1651336021122" duration="5029000" />
+      <workItem from="1651432346611" duration="8315000" />
+      <workItem from="1651480035366" duration="19358000" />
+      <workItem from="1651528149828" duration="1712000" />
+      <workItem from="1651545152962" duration="432000" />
+      <workItem from="1651545643248" duration="3135000" />
+      <workItem from="1651584151237" duration="3365000" />
+    </task>
+    <task id="LOCAL-00001" summary="config file">
+      <created>1650563992589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650563992589</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add files">
+      <created>1650564021718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650564021718</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update backend">
+      <created>1651248070688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651248070688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update backend">
+      <created>1651248840369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651248840369</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update backend">
+      <created>1651252189863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651252189863</updated>
+    </task>
+    <task id="LOCAL-00006" summary="casper chain name">
+      <created>1651444080659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651444080659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="casper chain name">
+      <created>1651480057834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651480057834</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add failed tx feature for bscToCasper">
+      <created>1651488699075</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651488699075</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add failed tx feature for bscToCasper">
+      <created>1651488874832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651488874832</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add failed tx feature for bscToCasper">
+      <created>1651489220075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651489220075</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add bsc event handler">
+      <created>1651507202997</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651507202997</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add bsc event handler">
+      <created>1651507887594</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651507887594</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add bsc event handler">
+      <created>1651508114919</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651508114919</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add bsc event handler">
+      <created>1651508693882</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651508693882</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add bsc event handler">
+      <created>1651508814992</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651508814992</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add bsc event handler">
+      <created>1651509603183</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651509603183</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add bsc event handler">
+      <created>1651510338323</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651510338323</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config file" />
+    <MESSAGE value="add files" />
+    <MESSAGE value="update backend" />
+    <MESSAGE value="casper chain name" />
+    <MESSAGE value="add failed tx feature for bscToCasper" />
+    <MESSAGE value="add bsc event handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bsc event handler" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="215" width="815" height="739" key="FileChooserDialogImpl" timestamp="1651594019780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="332" y="215" width="815" height="739" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1651594019780" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1651510340725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1651510340725" />
+    <state x="477" y="113" width="966" height="733" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1651079937768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="113" width="966" height="733" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1651079937768" />
+    <state x="667" y="255" width="894" height="653" key="find.popup" timestamp="1651480362943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="255" width="894" height="653" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1650453772599" />
+    <state x="667" y="255" width="894" height="653" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1651480362943" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1650563942528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1650563942528" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1651136186518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1651136186518" />
+  </component>
+</project>
