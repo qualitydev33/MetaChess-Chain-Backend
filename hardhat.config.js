@@ -32,6 +32,7 @@ require("hardhat-tracer");
 let config = require("./config.js");
 
 module.exports = {
+    defaultNetwork: 'bscTestnet',
     networks: {
         hardhat: {},
         ethereumMainnet: {
@@ -62,11 +63,19 @@ module.exports = {
             url: "https://data-seed-prebsc-1-s1.binance.org:8545",
             accounts: config.testnetAccounts,
         },
+        polygonMainnet: {
+            url: "https://rpc-mainnet.maticvigil.com",
+            accounts: config.mainnetAccounts,
+        },
+        polygonTestnet: {
+            url: "https://matic-mumbai.chainstacklabs.com",
+            accounts: config.testnetAccounts,
+        },
     },
     solidity: {
         compilers: [
             {
-                version: "0.8.5",
+                version: "0.8.11",
                 settings: {
                     optimizer: {
                         enabled: true,
@@ -116,4 +125,7 @@ module.exports = {
         overwrite: false,
         runOnCompile: true,
     },
+    etherscan: {
+        apiKey: config.apiKey
+    }
 };

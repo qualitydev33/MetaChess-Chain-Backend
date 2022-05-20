@@ -1,1 +1,1 @@
-# MetaChess-Chain-Backend
+# Metachess contracts
